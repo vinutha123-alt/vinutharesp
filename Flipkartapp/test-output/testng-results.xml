@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="101081" started-at="2020-08-26T20:36:09 IST" finished-at="2020-08-26T20:37:50 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="101081" started-at="2020-08-26T20:36:09 IST" finished-at="2020-08-26T20:37:50 IST">
+      <class name="testscripts.alertpop">
+        <test-method status="PASS" signature="loginapp()[pri:0, instance:testscripts.alertpop@71bbf57e]" name="loginapp" is-config="true" duration-ms="9810" started-at="2020-08-26T20:36:09 IST" finished-at="2020-08-26T20:36:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginapp -->
+        <test-method status="PASS" signature="fileupd()[pri:0, instance:testscripts.alertpop@71bbf57e]" name="fileupd" duration-ms="10339" started-at="2020-08-26T20:37:18 IST" finished-at="2020-08-26T20:37:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileupd -->
+        <test-method status="PASS" signature="logoutapp()[pri:0, instance:testscripts.alertpop@71bbf57e]" name="logoutapp" is-config="true" duration-ms="9682" started-at="2020-08-26T20:37:38 IST" finished-at="2020-08-26T20:37:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutapp -->
+      </class> <!-- testscripts.alertpop -->
+      <class name="testscripts.searchmobile">
+        <test-method status="PASS" signature="loginapp()[pri:0, instance:testscripts.searchmobile@711f39f9]" name="loginapp" is-config="true" duration-ms="18286" started-at="2020-08-26T20:36:19 IST" finished-at="2020-08-26T20:36:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginapp -->
+        <test-method status="PASS" signature="searchmob()[pri:0, instance:testscripts.searchmobile@711f39f9]" name="searchmob" duration-ms="28935" started-at="2020-08-26T20:36:49 IST" finished-at="2020-08-26T20:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchmob -->
+        <test-method status="PASS" signature="logoutapp()[pri:0, instance:testscripts.searchmobile@711f39f9]" name="logoutapp" is-config="true" duration-ms="1226" started-at="2020-08-26T20:37:48 IST" finished-at="2020-08-26T20:37:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutapp -->
+      </class> <!-- testscripts.searchmobile -->
+      <class name="testscripts.fileupload">
+        <test-method status="PASS" signature="loginapp()[pri:0, instance:testscripts.fileupload@7f13d6e]" name="loginapp" is-config="true" duration-ms="11439" started-at="2020-08-26T20:36:37 IST" finished-at="2020-08-26T20:36:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginapp -->
+        <test-method status="PASS" signature="fileupd()[pri:0, instance:testscripts.fileupload@7f13d6e]" name="fileupd" duration-ms="9953" started-at="2020-08-26T20:37:28 IST" finished-at="2020-08-26T20:37:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileupd -->
+        <test-method status="PASS" signature="logoutapp()[pri:0, instance:testscripts.fileupload@7f13d6e]" name="logoutapp" is-config="true" duration-ms="1301" started-at="2020-08-26T20:37:49 IST" finished-at="2020-08-26T20:37:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutapp -->
+      </class> <!-- testscripts.fileupload -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
